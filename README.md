@@ -1,6 +1,7 @@
 # BN5_Unused_NaviCust_Programs
 This mod allows you to get the unreleased Navi Cust Programs. Allowing you to farm tier 2 and tier 3 virus related chips that are otherwise can only be farmed after clearing the story.
 
+
 Feature:
 1. Provide the following Navi Cust Programs:
   a. Mega Virus (AABLARBLAA) - Allows MegaMan to encounter Tier 2 Viruses without needing to open the portal to Nebula Area 1. Cannot be removed in Cyberworld upon equipped
@@ -9,6 +10,7 @@ Feature:
 2. Mega Virus and Giga Virus is provided when paying 1000 zennies for MineKey. Fitting since you only just received Navi Customizer a while before meeting him.
 3. Hub Batch is obtained when defeating Chaos Lord (Dark MegaMan). Do not skip cutscene upon victory or it won't be added to your inventory.
 4. Mega Virus and Giga Virus DOES NOT CHANGE THE CONTENT OF MYSTERY DATA in the internet. That one you have to talk to Gold Prog at Undernet 2 alternate entrance and entrance to Nebula Area 4 respectively. 
+
 
 Installing
 Windows PC and Steam Deck

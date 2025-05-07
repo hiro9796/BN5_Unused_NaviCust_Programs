@@ -17,5 +17,5 @@ Windows PC and Steam Deck
 1. Download and install chaudloader: https://github.com/RockmanEXEZone/chaudloader
 2. Launch Steam in Desktop Mode. Right-click the game in Steam, then click Properties → Local Files → Browse to open the game's install folder. Then open the "exe" folder, where you'll find MMBN_LC2.exe.
 3. Create a "mods" folder in the same folder, if it doesn't yet exist.
-4. Download and unzip BN5_Cheap_Trade_Chain.zip and copy the BN5_Cheap_Trade_Chain.zip folder to the "mods" folder.
+4. Download and unzip BN5_Unused_NaviCust_Programs.zip and copy the BN5_Unused_NaviCust_Programs folder to the "mods" folder.
 5. Launch the game via Steam.

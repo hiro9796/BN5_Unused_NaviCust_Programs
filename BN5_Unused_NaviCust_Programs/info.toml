@@ -1,0 +1,4 @@
+title = "BN5_Unused_NaviCust_Programs"
+version = "1.0.0"
+authors = [ "Kimi_Hiro" ]
+requires_loader_version = ">=0.13.0"
